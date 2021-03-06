@@ -1,0 +1,66 @@
+1.Ping: It is a command for testing whether your computer can send and    receive network traffic with that address.
+  *c num- send num test messages,then quit and print the results.
+  *traffic split up into packets
+  *ping sends and receive individual packets to test whether traffic can get from one address to another and back.
+  *With ping there is no ping server to send and receive requests. The echo request goes to the os on receiving end  which sends response back.
+  *If os supports internet access it supports ping as well.
+  
+2.Ping vs Http
+  *ping goes over a different protocol, ICMP. The server itself directly responds to pings. HTTP is a different protocol handled by an additional application, a    web server, that must be running on the server (ping is built-in to the OS).
+  *You send a packet, the server replies with the corresponding packet and that's about it.
+  *HTTP HEAD is still HTTP: a TCP connection must be established between both ends and the HTTP server must reply with the headers for your request. It's obviously fast but not as simple as sending a single packet response.'
+  
+3. nc-netcad-talks mentally to internet services.Connects servers and act as server itself.
+   print and echo similar but print is smarter than echo inyterms of backslash
+   google uses gws webserver
+   * We get http respomses from netcad and printf
+   *Netcat connects porta nd sends string over it
+   *ctrl+D exits the connection
+   *Connecting through simple tcp text
+       nc -l portno        nc localhost portno
+      
+   *The port range that a normal (non-root) user can listen on is 1024 through 65535.
+   *But if you use root access (including sudo) then you can listen on ports down to 1.o to 1023 are used for superuser
+   * If nc is listening to portnumber that already another program is listening thenit gives an error message.
+   
+ 
+
+ 4. IETF Model:
+    Layer     Protocol     Model
+  
+ 5. printf 'HEAD / HTTP/1.1\r\nHost: en.wikipedia.org\r\n\r\n' | nc en.wikipedia.org 80
+    We get some information back from wikipedia server. It gives status line and header section only. It sends http header status code, location, content-length, date, X-cache, Connection status etc..
+    printf gives a string that forms an http request and gives it to netcat command. nc picks the input and sends it to the address and the port that we tell over the network and displays the output.
+    
+    qa:printf 'HEAD / HTTP/1.1\r\nHost: www.rediff.com\r\n\r\n' | nc www.rediff.com 80
+
+    
+    
+    
+2.1 Host: Machine on internet that host services
+    * Google has mnay different host ip addresses
+    * A record maps name to ip addresses(ipv4)
+    * DNS transforms hostnames to ipaddresses
+    * If DNS fails then entire website cant be accessed
+    * DNS client code is called resolver
+    * host -t a google.com- gives ip address of google
+    * dig is same as host but gives information in more readable for scripts
+    * DNS domains are structured as a tree
+    * IPV4 addresses range from 0-255
+    * ip addr show command gives list of interfaces on your computer
+ 
+    
+3.1 Why do we need to give IP addresses to each interface? Wouldn't giving one to each device be enough?
+    Likewise, a host can have many network connections and accordingly, IP addresses. Different interfaces often have different functions, so it's important to distinguish between them (e.g. internal console, public services, iSCSI).
+    Suppose I have a computer with three interfaces: eth0 (wired Ethernet), wlan0 (wifi), and vboxnet0 (virtualbox). One of the interfaces is connected to an internal network, one is connected to the internet, and the last one is connected to a network of virtual computers. Let's say I have just one address, 10.1.2.3, and wish to send a whole lot of packets to 192.168.1.2, reachable on one of those networks - where do I send them to? Can't just send them Everywhere, such behavior would flood all the networks in short order.
+
+But if the eth0 interface has 192.168.1.3, wlan0 has 10.1.2.3, and vboxnet0 has 172.0.0.1, then the default routing table will probably say "send it out eth0". (This can obviously get far more complicated with more complex routing rules).
+
+And conversely, I may wish to run a service only on the interface that's open to the private network - so when a request comes in on a different interface, it's not handled at all.
+
+   * ip route show default- gives gateway ipaddress of your computer(works  only for linux)
+   * netstat -nr also same as above one (works for linux,mac,unix)
+   * ping ipaddress gives ping time  of that address
+   
+   
+5. TRaceroute-gives all ipaddresses and routes that are involved in reaching the destination

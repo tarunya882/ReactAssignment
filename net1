@@ -1,0 +1,11 @@
+.1 Why do we need to give IP addresses to each interface? Wouldn't giving one to each device be enough?
+    Likewise, a host can have many network connections and accordingly, IP addresses. Different interfaces often have different functions, so it's important to distinguish between them (e.g. internal console, public services, iSCSI).
+    Suppose I have a computer with three interfaces: eth0 (wired Ethernet), wlan0 (wifi), and vboxnet0 (virtualbox). One of the interfaces is connected to an internal network, one is connected to the internet, and the last one is connected to a network of virtual computers. Let's say I have just one address, 10.1.2.3, and wish to send a whole lot of packets to 192.168.1.2, reachable on one of those networks - where do I send them to? Can't just send them Everywhere, such behavior would flood all the networks in short order.
+
+But if the eth0 interface has 192.168.1.3, wlan0 has 10.1.2.3, and vboxnet0 has 172.0.0.1, then the default routing table will probably say "send it out eth0". (This can obviously get far more complicated with more complex routing rules).
+
+And conversely, I may wish to run a service only on the interface that's open to the private network - so when a request comes in on a different interface, it's not handled at all.
+
+   * ip route show default- gives gateway ipaddress of your computer(works  only for linux)
+   * netstat -nr also same as above one (works for linux,mac,unix)
+   * ping ipaddress gives ping time  of that address
