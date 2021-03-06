@@ -1,0 +1,5 @@
+nc -l :This command will instruct the local system to begin listening for TCP connections.
+To establish tcp connection locally we use netcat command
+To create a simple chat we need two instances of netcat, one to listen for incoming connections and another one to start the connectio
+Server: nc -l portno (nc -l 1234)
+Client: nc localhost portno(nc localhost 1234)
