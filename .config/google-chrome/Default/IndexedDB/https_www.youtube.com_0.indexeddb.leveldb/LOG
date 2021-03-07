@@ -1,0 +1,15 @@
+2021/03/06-22:28:33.101 5da05 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/06-22:28:33.102 5da05 Recovering log #277
+2021/03/06-22:28:33.102 5da05 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000277.log 
+2021/03/06-22:29:12.008 5df09 Level-0 table #282: started
+2021/03/06-22:29:12.023 5df09 Level-0 table #282: 1654 bytes OK
+2021/03/06-22:29:12.029 5df09 Delete type=0 #277
+2021/03/06-22:29:12.029 5df09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/06-22:29:12.029 5df09 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 3974 : 0
+2021/03/06-22:29:12.029 5df09 Compacting 1@1 + 1@2 files
+2021/03/06-22:29:12.036 5df09 Generated table #283@1: 135 keys, 7510 bytes
+2021/03/06-22:29:12.036 5df09 Compacted 1@1 + 1@2 files => 7510 bytes
+2021/03/06-22:29:12.041 5df09 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/06-22:29:12.041 5df09 Delete type=2 #282
+2021/03/06-22:29:12.041 5df09 Delete type=2 #279
+2021/03/06-22:29:12.042 5df09 Manual compaction at level-1 from '\x00\x03\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 3974 : 0 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/03/07-19:19:14.835 6ad00 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/07-19:19:14.836 6ad00 Recovering log #13
+2021/03/07-19:19:14.836 6ad00 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000013.log 
+2021/03/07-19:44:59.039 6b5e4 Level-0 table #19: started
+2021/03/07-19:44:59.051 6b5e4 Level-0 table #19: 580306 bytes OK
+2021/03/07-19:44:59.055 6b5e4 Delete type=0 #13
+2021/03/07-19:44:59.056 6b5e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/07-19:44:59.056 6b5e4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x000\x00e\x001\x008\x00a\x00d\x007\x00c\x00c\x000\x00d\x00c\x004\x00f\x00e\x00c\x00c\x00f\x00f\x00e\x001\x003\x00e\x003\x007\x007\x00a\x00d\x008\x00c\x00f\x006\x00_\x003\x00_\x002\x00:\x000\x000' @ 8419 : 0
+2021/03/07-19:44:59.056 6b5e4 Compacting 1@1 + 1@2 files
+2021/03/07-19:44:59.063 6b5e4 Generated table #20@1: 73 keys, 58947 bytes
+2021/03/07-19:44:59.063 6b5e4 Compacted 1@1 + 1@2 files => 58947 bytes
+2021/03/07-19:44:59.068 6b5e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/07-19:44:59.069 6b5e4 Delete type=2 #19
+2021/03/07-19:44:59.069 6b5e4 Delete type=2 #16
+2021/03/07-19:44:59.069 6b5e4 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x000\x00e\x001\x008\x00a\x00d\x007\x00c\x00c\x000\x00d\x00c\x004\x00f\x00e\x00c\x00c\x00f\x00f\x00e\x001\x003\x00e\x003\x007\x007\x00a\x00d\x008\x00c\x00f\x006\x00_\x003\x00_\x002\x00:\x000\x000' @ 8419 : 0 .. (end); will stop at (end)

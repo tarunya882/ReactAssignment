@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="8" last-seen="1615002730"/>
+    <application id="google-chrome.desktop" score="23278" last-seen="1615129389"/>
+    <application id="org.gnome.Screenshot.desktop" score="8" last-seen="1614962092"/>
+    <application id="anydesk.desktop" score="0" last-seen="1614785017"/>
+    <application id="gnome-control-center.desktop" score="89" last-seen="1615107100"/>
+    <application id="org.gnome.gedit.desktop" score="1914" last-seen="1615126234"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1614774792"/>
+    <application id="libreoffice-calc.desktop" score="8" last-seen="1614860227"/>
+    <application id="org.gnome.Nautilus.desktop" score="123" last-seen="1615129503"/>
+    <application id="org.gnome.eog.desktop" score="21" last-seen="1614837602"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1614860230"/>
+    <application id="gnome-initial-setup.desktop" score="172" last-seen="1614774908"/>
+    <application id="shotwell.desktop" score="1" last-seen="1614769144"/>
+    <application id="org.gnome.Terminal.desktop" score="6177" last-seen="1615129494"/>
+    <application id="firefox.desktop" score="1" last-seen="1614779908"/>
+    <application id="simple-scan.desktop" score="1" last-seen="1614785037"/>
+    <application id="thunderbird.desktop" score="4" last-seen="1614837614"/>
+    <application id="update-manager.desktop" score="1" last-seen="1615002745"/>
+    <application id="code.desktop" score="518" last-seen="1615033723"/>
+    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>

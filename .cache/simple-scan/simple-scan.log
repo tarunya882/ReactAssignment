@@ -1,0 +1,17 @@
+[+0.00s] DEBUG: simple-scan.vala:1720: Starting simple-scan 3.36.3, PID=97116
+[+0.00s] DEBUG: unsetenv() is not thread-safe and should not be used after threads are created
+[+0.02s] DEBUG: _g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+[+0.07s] DEBUG: app-window.vala:1906: Loading state from /home/tharp/.cache/simple-scan/state
+[+0.07s] DEBUG: app-window.vala:1885: Restoring window to 600x400 pixels
+[+0.16s] DEBUG: scanner.vala:1539: sane_init () -> SANE_STATUS_GOOD
+[+0.16s] DEBUG: scanner.vala:1545: SANE version 1.0.29
+[+0.16s] DEBUG: scanner.vala:1606: Requesting redetection of scan devices
+[+0.16s] DEBUG: scanner.vala:828: Processing request
+[+0.58s] DEBUG: app-window.vala:1981: Saving state to /home/tharp/.cache/simple-scan/state
+[+3.55s] DEBUG: autosave-manager.vala:201: Deleting autosave records
+[+3.55s] WARNING: autosave-manager.vala:214: Failed to delete autosaves: Error opening directory “/home/tharp/.cache/simple-scan/autosaves”: No such file or directory
+[+3.55s] DEBUG: scanner.vala:1702: Stopping scan thread
+[+8.25s] DEBUG: scanner.vala:341: sane_get_devices () -> SANE_STATUS_GOOD
+[+8.25s] DEBUG: scanner.vala:828: Processing request
+[+8.26s] DEBUG: scanner.vala:1713: sane_exit ()
+[+8.26s] CRITICAL: app_window_set_scan_devices: assertion 'self != NULL' failed

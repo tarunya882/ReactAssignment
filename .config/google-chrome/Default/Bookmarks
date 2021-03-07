@@ -1,0 +1,47 @@
+{
+   "checksum": "b2887c17ab59856211c9c22bf0db2505",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13259388765005320",
+            "guid": "1b843431-ae6f-46d6-98be-50476a4377fb",
+            "id": "5",
+            "name": "Linux IP Command Ultimate Tutorial with 31 Examples",
+            "type": "url",
+            "url": "https://phoenixnap.com/kb/linux-ip-command-examples#:~:text=address%20(addr%2Fa)%20%E2%80%93,addresses%20(IP%2C%20IPv6)."
+         }, {
+            "date_added": "13259434869520731",
+            "guid": "cb6d57c0-3693-4d66-b2e5-ea2875889426",
+            "id": "6",
+            "name": "JSONPlaceholder - Free Fake REST API",
+            "type": "url",
+            "url": "https://jsonplaceholder.typicode.com/"
+         } ],
+         "date_added": "13259386979293888",
+         "date_modified": "13259434869520731",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13259386979293910",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13259386979293912",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

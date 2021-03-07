@@ -1,0 +1,17 @@
+git init- creates repository
+git --version- gives version 
+git status- gives all files tracked and untracked
+git add filename- adds file to staging area
+git add -A -adds all files to staging area
+git commit -m "comment"- commit the files
+git diff/git diff filename
+git show- gives commit authorshows changes that are made to code
+git log-shows the last commit
+
+Branches:
+git branch branchname- create separate branch
+git branch-gives all branches
+git checkout -will replace everything in the working directory to the last committed version.
+git checkout branchname-navigate between the branches created by git branch
+git reset --hard will combine both git reset and git checkout in a single command. The result will be the files removed from the staging area and the working directory is taken back to the state of the last commit.
+git revert allows you to undo the commits. The command will create a new commit which has the inverse affect of the commit being reverted.

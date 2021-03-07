@@ -1,0 +1,15 @@
+2021/03/06-17:11:48.692 540e7 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/06-17:11:48.692 540e7 Recovering log #11
+2021/03/06-17:11:48.693 540e7 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000011.log 
+2021/03/06-17:11:54.366 54237 Level-0 table #16: started
+2021/03/06-17:11:54.374 54237 Level-0 table #16: 764 bytes OK
+2021/03/06-17:11:54.385 54237 Delete type=0 #11
+2021/03/06-17:11:54.385 54237 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/06-17:11:54.386 54237 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x10\x003\x001\x009\x004\x002\x003\x002\x009\x008\x004\x001\x004\x002\x003\x002\x004\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x009\x004\x002\x003\x002\x009\x008\x004\x001\x004\x002\x003\x002\x004\x00.\x001\x006\x001\x005\x000\x003\x000\x009\x000\x009\x008\x005\x008' @ 100 : 1
+2021/03/06-17:11:54.386 54237 Compacting 1@1 + 1@2 files
+2021/03/06-17:11:54.396 54237 Generated table #17@1: 25 keys, 810 bytes
+2021/03/06-17:11:54.396 54237 Compacted 1@1 + 1@2 files => 810 bytes
+2021/03/06-17:11:54.401 54237 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/06-17:11:54.401 54237 Delete type=2 #13
+2021/03/06-17:11:54.401 54237 Delete type=2 #16
+2021/03/06-17:11:54.401 54237 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x10\x003\x001\x009\x004\x002\x003\x002\x009\x008\x004\x001\x004\x002\x003\x002\x004\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x009\x004\x002\x003\x002\x009\x008\x004\x001\x004\x002\x003\x002\x004\x00.\x001\x006\x001\x005\x000\x003\x000\x009\x000\x009\x008\x005\x008' @ 100 : 1 .. (end); will stop at (end)

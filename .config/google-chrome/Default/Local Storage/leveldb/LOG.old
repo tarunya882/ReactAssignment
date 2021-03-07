@@ -1,0 +1,72 @@
+2021/03/06-08:40:50.881 3 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/06-08:40:50.882 3 Recovering log #189
+2021/03/06-08:40:50.882 3 Reusing old log /home/tharp/.config/google-chrome/Default/Local Storage/leveldb/000189.log 
+2021/03/06-08:44:08.969 6 Level-0 table #194: started
+2021/03/06-08:44:08.985 6 Level-0 table #194: 62656 bytes OK
+2021/03/06-08:44:08.992 6 Delete type=0 #189
+2021/03/06-10:29:38.930 31 Level-0 table #196: started
+2021/03/06-10:29:38.946 31 Level-0 table #196: 65819 bytes OK
+2021/03/06-10:29:38.953 31 Delete type=0 #193
+2021/03/06-10:42:29.053 31 Level-0 table #198: started
+2021/03/06-10:42:29.077 31 Level-0 table #198: 174317 bytes OK
+2021/03/06-10:42:29.084 31 Delete type=0 #195
+2021/03/06-12:02:48.864 45 Level-0 table #200: started
+2021/03/06-12:02:48.881 45 Level-0 table #200: 21351 bytes OK
+2021/03/06-12:02:48.890 45 Delete type=0 #197
+2021/03/06-12:02:48.891 45 Compacting 4@0 + 1@1 files
+2021/03/06-12:02:48.950 45 Generated table #201@0: 1841 keys, 1683848 bytes
+2021/03/06-12:02:48.951 45 Compacted 4@0 + 1@1 files => 1683848 bytes
+2021/03/06-12:02:48.956 45 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/06-12:02:48.957 45 Delete type=2 #191
+2021/03/06-12:02:48.957 45 Delete type=2 #194
+2021/03/06-12:02:48.957 45 Delete type=2 #200
+2021/03/06-12:02:48.958 45 Delete type=2 #196
+2021/03/06-12:02:48.958 45 Delete type=2 #198
+2021/03/06-17:03:04.665 79 Level-0 table #203: started
+2021/03/06-17:03:04.679 79 Level-0 table #203: 20662 bytes OK
+2021/03/06-17:03:04.684 79 Delete type=0 #199
+2021/03/06-18:36:27.065 95 Level-0 table #205: started
+2021/03/06-18:36:27.080 95 Level-0 table #205: 19858 bytes OK
+2021/03/06-18:36:27.086 95 Delete type=0 #202
+2021/03/06-18:39:32.054 9c Level-0 table #207: started
+2021/03/06-18:39:32.066 9c Level-0 table #207: 75656 bytes OK
+2021/03/06-18:39:32.075 9c Delete type=0 #204
+2021/03/06-21:38:14.991 c5 Level-0 table #209: started
+2021/03/06-21:38:15.010 c5 Level-0 table #209: 15874 bytes OK
+2021/03/06-21:38:15.019 c5 Delete type=0 #206
+2021/03/06-21:38:15.021 c5 Compacting 4@0 + 1@1 files
+2021/03/06-21:38:15.083 c5 Generated table #210@0: 2072 keys, 1695735 bytes
+2021/03/06-21:38:15.083 c5 Compacted 4@0 + 1@1 files => 1695735 bytes
+2021/03/06-21:38:15.088 c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/06-21:38:15.091 c5 Delete type=2 #207
+2021/03/06-21:38:15.091 c5 Delete type=2 #205
+2021/03/06-21:38:15.091 c5 Delete type=2 #203
+2021/03/06-21:38:15.092 c5 Delete type=2 #201
+2021/03/06-21:38:15.092 c5 Delete type=2 #209
+2021/03/06-21:44:02.110 c5 Level-0 table #212: started
+2021/03/06-21:44:02.118 c5 Level-0 table #212: 44796 bytes OK
+2021/03/06-21:44:02.123 c5 Delete type=0 #208
+2021/03/06-22:23:24.950 e0 Level-0 table #214: started
+2021/03/06-22:23:24.968 e0 Level-0 table #214: 15738 bytes OK
+2021/03/06-22:23:24.976 e0 Delete type=0 #211
+2021/03/06-22:23:35.049 de Level-0 table #216: started
+2021/03/06-22:23:35.066 de Level-0 table #216: 71234 bytes OK
+2021/03/06-22:23:35.074 de Delete type=0 #213
+2021/03/06-22:23:45.477 e0 Level-0 table #218: started
+2021/03/06-22:23:45.488 e0 Level-0 table #218: 70059 bytes OK
+2021/03/06-22:23:45.497 e0 Delete type=0 #215
+2021/03/06-22:23:45.498 e0 Compacting 4@0 + 1@1 files
+2021/03/06-22:23:45.559 e0 Generated table #219@0: 2203 keys, 1702708 bytes
+2021/03/06-22:23:45.559 e0 Compacted 4@0 + 1@1 files => 1702708 bytes
+2021/03/06-22:23:45.567 e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/06-22:23:45.568 e0 Delete type=2 #216
+2021/03/06-22:23:45.568 e0 Delete type=2 #212
+2021/03/06-22:23:45.568 e0 Delete type=2 #210
+2021/03/06-22:23:45.568 e0 Delete type=2 #218
+2021/03/06-22:23:45.568 e0 Delete type=2 #214
+2021/03/06-22:23:55.588 de Level-0 table #221: started
+2021/03/06-22:23:55.604 de Level-0 table #221: 71845 bytes OK
+2021/03/06-22:23:55.610 de Delete type=0 #217
+2021/03/06-22:24:06.034 e0 Level-0 table #223: started
+2021/03/06-22:24:06.044 e0 Level-0 table #223: 69981 bytes OK
+2021/03/06-22:24:06.052 e0 Delete type=0 #220

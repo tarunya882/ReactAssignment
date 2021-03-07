@@ -1,0 +1,5 @@
+2021/03/05-20:29:44.127 4335e Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_www.netacad.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-20:29:50.433 43528 Level-0 table #5: started
+2021/03/05-20:29:50.449 43528 Level-0 table #5: 983 bytes OK
+2021/03/05-20:29:50.457 43528 Delete type=0 #3
+2021/03/05-20:29:50.457 43528 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

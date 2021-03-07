@@ -1,0 +1,15 @@
+2021/03/05-20:15:44.875 429c4 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_markoskon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-20:15:44.876 429c4 Recovering log #4
+2021/03/05-20:15:44.876 429c4 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_markoskon.com_0.indexeddb.leveldb/000004.log 
+2021/03/05-20:16:18.289 42c66 Level-0 table #8: started
+2021/03/05-20:16:18.299 42c66 Level-0 table #8: 1651 bytes OK
+2021/03/05-20:16:18.305 42c66 Delete type=0 #4
+2021/03/05-20:16:18.305 42c66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/05-20:16:18.306 42c66 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1a\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00y\x00a\x00r\x00g\x00s\x00-\x00e\x00x\x00a\x00m\x00p\x00l\x00e\x00s\x00/' @ 157 : 1
+2021/03/05-20:16:18.306 42c66 Compacting 1@1 + 1@2 files
+2021/03/05-20:16:18.313 42c66 Generated table #9@1: 37 keys, 1649 bytes
+2021/03/05-20:16:18.313 42c66 Compacted 1@1 + 1@2 files => 1649 bytes
+2021/03/05-20:16:18.318 42c66 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/05-20:16:18.319 42c66 Delete type=2 #8
+2021/03/05-20:16:18.319 42c66 Delete type=2 #5
+2021/03/05-20:16:18.319 42c66 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1a\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00y\x00a\x00r\x00g\x00s\x00-\x00e\x00x\x00a\x00m\x00p\x00l\x00e\x00s\x00/' @ 157 : 1 .. (end); will stop at (end)

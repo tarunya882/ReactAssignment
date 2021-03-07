@@ -1,0 +1,113 @@
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - * AnyDesk Linux Startup *
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - * Build 20210125094543
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - * Prefix ad
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - 
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - Distribution Info: Ubuntu 20.04.2 LTS
+   info 2021-03-02 12:29:02.909         ad   main   2062   2062                                  main - Found GLib Version: 2.64.
+   info 2021-03-02 12:29:02.985         ad   main   2062   2062                       app.common_path - user_data_dir = /home/tharp/.anydesk, logged_in_user_data_dir = /home/tharp/.anydesk, current_home = /home/tharp
+
+   info 2021-03-02 12:29:02.986         ad   main   2062   2062                       app.common_path - initialized user = /home/tharp/.anydesk, system = /etc/anydesk
+   info 2021-03-02 12:29:02.990       tray   main   2062   2062                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-02 12:29:02.990       tray   main   2062   2062                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-03-02 12:29:03.030       tray   main   2062   2062                       base.signal.hub - 1 threads.
+   info 2021-03-02 12:29:03.030       tray   main   2062   2062                    app.tunnel_ft_comp - Ready.
+   info 2021-03-02 12:29:03.148       tray   ctrl   2062   2199                      unix_app.control - Control startup.
+  error 2021-03-02 12:29:03.151       tray   ctrl   2062   2199              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-03-02 12:29:03.169       tray   wrk0   2062   2200              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-03-02 12:29:03.169       tray   wrk0   2062   2200                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-03-02 12:29:03.169       tray   wrk0   2062   2200        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-02 12:29:03.171       tray   wrk0   2062   2200                      unix_app.control - Could not update account image (File not found: /home/tharp/.face.icon).
+   info 2021-03-02 16:21:17.661         ad   main  31618  31618                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - * AnyDesk Linux Startup *
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - * Build 20210125094543
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - * Prefix ad
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - 
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - Distribution Info: Ubuntu 20.04.2 LTS
+   info 2021-03-02 16:21:17.663         ad   main  31618  31618                                  main - Found GLib Version: 2.64.
+   info 2021-03-02 16:21:17.721         ad   main  31618  31618                       app.common_path - user_data_dir = /home/tharp/.anydesk, logged_in_user_data_dir = /home/tharp/.anydesk, current_home = /home/tharp
+
+   info 2021-03-02 16:21:17.722         ad   main  31618  31618                       app.common_path - initialized user = /home/tharp/.anydesk, system = /etc/anydesk
+   info 2021-03-02 16:21:17.744       tray   main  31618  31618                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-02 16:21:17.744       tray   main  31618  31618                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-03-02 16:21:17.767       tray   main  31618  31618                       base.signal.hub - 1 threads.
+   info 2021-03-02 16:21:17.767       tray   main  31618  31618                    app.tunnel_ft_comp - Ready.
+   info 2021-03-02 16:21:17.986       tray   ctrl  31618  31682                      unix_app.control - Control startup.
+  error 2021-03-02 16:21:17.988       tray   ctrl  31618  31682              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-03-02 16:21:18.011       tray   wrk0  31618  31683              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-03-02 16:21:18.011       tray   wrk0  31618  31683                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-03-02 16:21:18.011       tray   wrk0  31618  31683        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-02 16:21:18.012       tray   wrk0  31618  31683                      unix_app.control - Could not update account image (File not found: /home/tharp/.face.icon).
+   info 2021-03-03 03:20:34.008         ad   main   1989   1989                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - * AnyDesk Linux Startup *
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - * Build 20210125094543
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - * Prefix ad
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - 
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - Distribution Info: Ubuntu 20.04.2 LTS
+   info 2021-03-03 03:20:34.009         ad   main   1989   1989                                  main - Found GLib Version: 2.64.
+   info 2021-03-03 03:20:34.150         ad   main   1989   1989                       app.common_path - user_data_dir = /home/tharp/.anydesk, logged_in_user_data_dir = /home/tharp/.anydesk, current_home = /home/tharp
+
+   info 2021-03-03 03:20:34.150         ad   main   1989   1989                       app.common_path - initialized user = /home/tharp/.anydesk, system = /etc/anydesk
+   info 2021-03-03 03:20:34.153       tray   main   1989   1989                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-03 03:20:34.153       tray   main   1989   1989                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-03-03 03:20:34.189       tray   main   1989   1989                       base.signal.hub - 1 threads.
+   info 2021-03-03 03:20:34.189       tray   main   1989   1989                    app.tunnel_ft_comp - Ready.
+   info 2021-03-03 03:20:34.237       tray   ctrl   1989   2094                      unix_app.control - Control startup.
+  error 2021-03-03 03:20:34.239       tray   ctrl   1989   2094              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-03-03 03:20:34.273       tray   wrk0   1989   2095              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-03-03 03:20:34.273       tray   wrk0   1989   2095                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-03-03 03:20:34.273       tray   wrk0   1989   2095        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-03 03:20:34.275       tray   wrk0   1989   2095                      unix_app.control - Could not update account image (File not found: /home/tharp/.face.icon).
+   info 2021-03-03 15:23:31.359         ad   main  97045  97045                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-03 15:23:31.359         ad   main  97045  97045                                  main - * AnyDesk Linux Startup *
+   info 2021-03-03 15:23:31.359         ad   main  97045  97045                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-03 15:23:31.359         ad   main  97045  97045                                  main - * Build 20210125094543
+   info 2021-03-03 15:23:31.360         ad   main  97045  97045                                  main - * Prefix ad
+   info 2021-03-03 15:23:31.360         ad   main  97045  97045                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-03 15:23:31.360         ad   main  97045  97045                                  main - 
+   info 2021-03-03 15:23:31.360         ad   main  97045  97045                                  main - Distribution Info: Ubuntu 20.04.2 LTS
+   info 2021-03-03 15:23:31.360         ad   main  97045  97045                                  main - Found GLib Version: 2.64.
+   info 2021-03-03 15:23:31.377         ad   main  97045  97045                       app.common_path - user_data_dir = /home/tharp/.anydesk, logged_in_user_data_dir = /home/tharp/.anydesk, current_home = /home/tharp
+
+   info 2021-03-03 15:23:31.377         ad   main  97045  97045                       app.common_path - initialized user = /home/tharp/.anydesk, system = /etc/anydesk
+   info 2021-03-03 15:23:31.378         ad   main  97045  97045                       app.common_path - user_data_dir = /home/tharp/.anydesk, logged_in_user_data_dir = /home/tharp/.anydesk, current_home = /home/tharp
+
+   info 2021-03-03 15:23:31.378         ad   main  97045  97045                       app.common_path - initialized user = /home/tharp/.anydesk, system = /etc/anydesk
+   info 2021-03-03 15:23:31.378         ad   main  97045  97045                                  main - Starting frontend process (97045).
+   info 2021-03-03 15:23:31.380   frontend   main  97045  97045                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-03 15:23:31.380   frontend   main  97045  97045                           gui.gui_app - Using std-resolution bitmaps.
+warning 2021-03-03 15:23:31.397   frontend   main  97045  97045        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-03 15:23:31.398   frontend   main  97045  97045                         app.user_info - Could not update user image (File not found: /home/tharp/.face.icon). Defaulting.
+   info 2021-03-03 15:23:31.402   frontend   main  97045  97045                       base.signal.hub - 16 threads.
+   info 2021-03-03 15:23:31.403   frontend   timr  97045  97051          base.signal.local.timer_impl - Initialized master timer.
+   info 2021-03-03 15:23:31.558   frontend   ctrl  97045  97052                     unix_app.frontend - Frontend startup.
+   info 2021-03-03 15:23:31.558   frontend   ctrl  97045  97052                     unix_app.frontend - Logging the frontend in.
+warning 2021-03-03 15:23:31.559   frontend   ctrl  97045  97052        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-03 15:23:31.559   frontend   ctrl  97045  97052                         app.user_info - Could not update user image (File not found: /home/tharp/.face.icon). Defaulting.
+warning 2021-03-03 15:23:31.747   frontend   wrk1  97045  97054        base.signal.global.shared_file - open (/var/lib/AccountsService/users/tharp) failed (13): Permission denied 
+warning 2021-03-03 15:23:31.747   frontend   wrk1  97045  97054                         app.user_info - Could not update user image (File not found: /home/tharp/.face.icon). Defaulting.
+   info 2021-03-03 15:23:31.771   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:31.771   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:31.773   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:31.821   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:31.822   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:34.701   frontend    x11  97045  97050                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2021-03-03 15:23:34.701   frontend    x11  97045  97050                     base.monitor_info - Monitor 0: w/h : 1920/1080
+   info 2021-03-03 15:23:34.701   frontend    x11  97045  97050                     base.monitor_info - Monitor 0 output=66
+   info 2021-03-03 15:23:37.144   frontend   ctrl  97045  97052                     unix_app.frontend - Frontend shutdown.
+   info 2021-03-03 15:23:37.155   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:37.157   frontend   main  97045  97045                     unix_app.frontend - Monitoring online states.
+   info 2021-03-03 15:23:37.735   frontend   ctrl  97045  97052                       base.signal.hub - Control quit.
+   info 2021-03-03 15:23:37.738   frontend   timr  97045  97051          base.signal.local.timer_impl - Timer wants to quit.
+   info 2021-03-03 15:23:37.744   frontend   main  97045  97045              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2021-03-03 15:23:37.746   frontend   main  97045  97045                                  main - Exiting normally.

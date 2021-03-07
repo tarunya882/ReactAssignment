@@ -1,0 +1,5 @@
+2021/03/05-20:15:06.566 42c66 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_markoskon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-20:15:38.695 42922 Level-0 table #5: started
+2021/03/05-20:15:38.704 42922 Level-0 table #5: 1986 bytes OK
+2021/03/05-20:15:38.709 42922 Delete type=0 #3
+2021/03/05-20:15:38.709 42922 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

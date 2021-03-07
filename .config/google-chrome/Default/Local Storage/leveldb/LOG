@@ -1,0 +1,45 @@
+2021/03/07-10:45:43.773 3 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/07-10:45:43.774 3 Recovering log #222
+2021/03/07-10:45:43.775 3 Reusing old log /home/tharp/.config/google-chrome/Default/Local Storage/leveldb/000222.log 
+2021/03/07-10:48:58.369 8 Level-0 table #226: started
+2021/03/07-10:48:58.383 8 Level-0 table #226: 46047 bytes OK
+2021/03/07-10:48:58.390 8 Delete type=0 #222
+2021/03/07-10:53:57.640 a Level-0 table #228: started
+2021/03/07-10:53:57.661 a Level-0 table #228: 91616 bytes OK
+2021/03/07-10:53:57.670 a Delete type=0 #225
+2021/03/07-10:53:57.671 a Compacting 4@0 + 1@1 files
+2021/03/07-10:53:57.739 a Generated table #229@0: 2215 keys, 1701755 bytes
+2021/03/07-10:53:57.739 a Compacted 4@0 + 1@1 files => 1701755 bytes
+2021/03/07-10:53:57.743 a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/07-10:53:57.745 a Delete type=2 #228
+2021/03/07-10:53:57.745 a Delete type=2 #226
+2021/03/07-10:53:57.745 a Delete type=2 #219
+2021/03/07-10:53:57.745 a Delete type=2 #223
+2021/03/07-10:53:57.745 a Delete type=2 #221
+2021/03/07-13:40:29.571 1e Level-0 table #231: started
+2021/03/07-13:40:29.589 1e Level-0 table #231: 15703 bytes OK
+2021/03/07-13:40:29.597 1e Delete type=0 #227
+2021/03/07-18:37:18.216 33 Level-0 table #233: started
+2021/03/07-18:37:18.234 33 Level-0 table #233: 16271 bytes OK
+2021/03/07-18:37:18.244 33 Delete type=0 #230
+2021/03/07-18:48:39.775 38 Level-0 table #235: started
+2021/03/07-18:48:39.787 38 Level-0 table #235: 36239 bytes OK
+2021/03/07-18:48:39.797 38 Delete type=0 #232
+2021/03/07-19:30:37.371 55 Level-0 table #237: started
+2021/03/07-19:30:37.389 55 Level-0 table #237: 35074 bytes OK
+2021/03/07-19:30:37.397 55 Delete type=0 #234
+2021/03/07-19:30:37.399 55 Compacting 4@0 + 1@1 files
+2021/03/07-19:30:37.461 55 Generated table #238@0: 2255 keys, 1728443 bytes
+2021/03/07-19:30:37.461 55 Compacted 4@0 + 1@1 files => 1728443 bytes
+2021/03/07-19:30:37.466 55 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/07-19:30:37.467 55 Delete type=2 #233
+2021/03/07-19:30:37.468 55 Delete type=2 #235
+2021/03/07-19:30:37.468 55 Delete type=2 #229
+2021/03/07-19:30:37.468 55 Delete type=2 #231
+2021/03/07-19:30:37.468 55 Delete type=2 #237
+2021/03/07-19:31:48.019 4c Level-0 table #240: started
+2021/03/07-19:31:48.028 4c Level-0 table #240: 39539 bytes OK
+2021/03/07-19:31:48.037 4c Delete type=0 #236
+2021/03/07-20:23:30.818 65 Level-0 table #242: started
+2021/03/07-20:23:30.835 65 Level-0 table #242: 22286 bytes OK
+2021/03/07-20:23:30.844 65 Delete type=0 #239

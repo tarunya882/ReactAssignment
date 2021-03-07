@@ -1,0 +1,8 @@
+2021/03/05-22:10:58.236 4726e Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-22:10:58.237 4726e Recovering log #13
+2021/03/05-22:10:58.237 4726e Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000013.log 
+2021/03/05-22:11:01.036 473d5 Level-0 table #17: started
+2021/03/05-22:11:01.036 473d5 Level-0 table #17: 0 bytes OK
+2021/03/05-22:11:01.049 473d5 Delete type=0 #13
+2021/03/05-22:11:01.050 473d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/05-22:11:01.050 473d5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

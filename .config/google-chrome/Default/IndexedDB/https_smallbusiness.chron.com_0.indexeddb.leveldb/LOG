@@ -1,0 +1,5 @@
+2021/03/05-08:48:15.577 2ed4b Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-10:29:54.472 32342 Level-0 table #5: started
+2021/03/05-10:29:54.490 32342 Level-0 table #5: 1047560 bytes OK
+2021/03/05-10:29:54.496 32342 Delete type=0 #3
+2021/03/05-10:29:54.497 32342 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

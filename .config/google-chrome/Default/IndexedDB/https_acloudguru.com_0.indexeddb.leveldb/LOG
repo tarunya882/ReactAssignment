@@ -1,0 +1,5 @@
+2021/03/03-18:53:47.804 13c28 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_acloudguru.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/03-18:53:52.261 13c29 Level-0 table #5: started
+2021/03/03-18:53:52.267 13c29 Level-0 table #5: 5895 bytes OK
+2021/03/03-18:53:52.276 13c29 Delete type=0 #3
+2021/03/03-18:53:52.276 13c29 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
