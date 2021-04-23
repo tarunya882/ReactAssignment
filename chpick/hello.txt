@@ -1,0 +1,11 @@
+git init- creates repository
+git --version- gives version 
+git status- gives all files tracked and untracked
+git add filename- adds file to staging area
+git add -A -adds all files to staging area
+git commit -m comment- commit the files
+git diff/git diff filename
+git show- gives commit ,author information,shows changes that are made to code
+git log-shows the last commit
+git pull-used to fetch and download content from a remote repository and update the local repository.
+git commands
