@@ -1,5 +1,0 @@
-2021/03/03-21:51:35.386 19ef7 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_65a3517e632a2e5e8467bc26ef717255.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/03-21:51:40.627 19ef7 Level-0 table #5: started
-2021/03/03-21:51:40.643 19ef7 Level-0 table #5: 439 bytes OK
-2021/03/03-21:51:40.651 19ef7 Delete type=0 #3
-2021/03/03-21:51:40.651 19ef7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

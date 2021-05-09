@@ -1,5 +1,0 @@
-2021/03/06-13:26:52.377 507dc Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_support.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/06-13:27:37.699 50596 Level-0 table #5: started
-2021/03/06-13:27:37.705 50596 Level-0 table #5: 1586 bytes OK
-2021/03/06-13:27:37.710 50596 Delete type=0 #3
-2021/03/06-13:27:37.710 50596 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

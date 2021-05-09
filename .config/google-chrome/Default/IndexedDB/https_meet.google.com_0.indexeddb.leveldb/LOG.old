@@ -1,5 +1,0 @@
-2021/03/03-09:28:50.879 19dc Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/03-09:29:53.556 19dc Level-0 table #5: started
-2021/03/03-09:29:53.570 19dc Level-0 table #5: 827 bytes OK
-2021/03/03-09:29:53.576 19dc Delete type=0 #3
-2021/03/03-09:29:53.576 19dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

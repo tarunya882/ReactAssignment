@@ -1,8 +1,0 @@
-2021/03/04-16:57:46.406 276d4 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/04-16:57:46.407 276d4 Recovering log #7
-2021/03/04-16:57:46.407 276d4 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
-2021/03/04-16:57:51.027 27792 Level-0 table #11: started
-2021/03/04-16:57:51.027 27792 Level-0 table #11: 0 bytes OK
-2021/03/04-16:57:51.041 27792 Delete type=0 #7
-2021/03/04-16:57:51.041 27792 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/04-16:57:51.041 27792 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

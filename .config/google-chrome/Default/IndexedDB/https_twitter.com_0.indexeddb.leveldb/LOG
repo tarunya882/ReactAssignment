@@ -1,8 +1,0 @@
-2021/03/06-20:26:18.237 59b99 Reusing MANIFEST /home/tharp/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/06-20:26:18.237 59b99 Recovering log #4
-2021/03/06-20:26:18.237 59b99 Reusing old log /home/tharp/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000004.log 
-2021/03/06-20:26:54.027 5a342 Level-0 table #8: started
-2021/03/06-20:26:54.027 5a342 Level-0 table #8: 0 bytes OK
-2021/03/06-20:26:54.042 5a342 Delete type=0 #4
-2021/03/06-20:26:54.043 5a342 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/06-20:26:54.043 5a342 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
