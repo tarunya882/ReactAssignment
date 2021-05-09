@@ -1,4 +1,0 @@
-L 63475 2021-03-03 16:28:56 [MSG] main.vala:423: Shotwell Photo Manager 0.30.10
-L 63475 2021-03-03 16:28:56 [WRN] Resources.vala:63: Couldn't load icon set from /org/gnome/Shotwell/Publishing/flickr.png: The resource at “/org/gnome/Shotwell/Publishing/flickr.png” does not exist
-L 63475 2021-03-03 16:28:56 [MSG] main.vala:43: Verifying database…
-L 63475 2021-03-03 16:28:56 [MSG] VideoSupport.vala:398: interpreter state cookie not found; assuming all video thumbnails are out of date
